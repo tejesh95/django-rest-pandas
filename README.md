@@ -160,3 +160,7 @@ You can override the default renderers by setting `PANDAS_RENDERERS` in your `se
 [serializers]: https://github.com/wq/django-rest-pandas/blob/master/rest_pandas/serializers.py
 [renderers]: https://github.com/wq/django-rest-pandas/blob/master/rest_pandas/renderers.py
 [wq/pandas.js]: http://wq.io/docs/pandas-js
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tejesh95/django-rest-pandas/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
